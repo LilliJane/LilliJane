@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working at [Epitech](epitech.eu) to teach undergrad students Go, cloud stuff and reliability. 
+- 👯 I’m looking to collaborate on golang projects
+- 💬 Ask me about anything
+- 📫 How to reach me: [@LilliJane](https://twitter.com/LilliJane)
+- 😄 Pronouns: She/her
+
+
 <!--
 **LilliJane/LilliJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
