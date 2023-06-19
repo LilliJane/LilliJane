@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at [majelan](https://majelan.com) as Lead Backend & DevOps, with a primary focus on improving reliability and performance.
+- 🔭 I’m currently working at [Snowball](https://snowball.xyz) as Software Engineer, with a primary focus on developing our back-end and infrastructure.
 - 👯 I’m looking to collaborate on golang projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [@LilliJane](https://twitter.com/LilliJane)
